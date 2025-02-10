@@ -1,6 +1,6 @@
 {
-  "Deployment#SpecialMomentNFT": "0x523B29c602cA0ec9E0ceE59b926D143C1788877A",
-  "Deployment#TicketNFT": "0x7ed80E011715520ccd340DDCAC2a03b25686693B",
-  "Deployment#EventRegistry": "0x570Bfd9F4EE0a53f04aEAb1EfB08A7EBF66e4b95",
-  "Deployment#NTicketMarket": "0x757F3Ac335c9C902663f840B9Be5156ccACA07aC"
+  "Deployment#SpecialMomentNFT": "0xBaA79d39CE1AB2fde4eD42eEAb4bDA85D45509c1",
+  "Deployment#TicketNFT": "0xc72f6B56e3bc083117E0E02c03FeF783Da119dE6",
+  "Deployment#EventRegistry": "0x27dD92bC14B39E8dC120c33D775BCfe9CE7A007d",
+  "Deployment#NTicketMarket": "0x3297b2E71eA0Bd2350A68373e8a9f1f441192079"
 }
